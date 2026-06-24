@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+ars_fungiglyphica/__init__.py
+ars_fungiglyphica/cli.py
+ars_fungiglyphica/elaborator.py
+ars_fungiglyphica/types.py
+ars_fungiglyphica.egg-info/PKG-INFO
+ars_fungiglyphica.egg-info/SOURCES.txt
+ars_fungiglyphica.egg-info/dependency_links.txt
+ars_fungiglyphica.egg-info/entry_points.txt
+ars_fungiglyphica.egg-info/top_level.txt

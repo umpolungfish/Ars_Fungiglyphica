@@ -17,7 +17,7 @@ from .types import (TYPES, PRIM_KEYS, DISCRIMINANT_KEYS, INVARIANT,
                      FungalType, type_for_fungus, type_by_num, type_by_name, all_fungi)
 from .elaborator import elaborate_morphology, format_morphology_report
 
-_ROMAN = {1:"I",2:"II",3:"III",4:"IV",5:"V",6:"VI",7:"VII",8:"VIII",9:"IX",10:"X"}
+_ROMAN = {1:"I",2:"II",3:"III",4:"IV",5:"V",6:"VI",7:"VII",8:"VIII",9:"IX",10:"X",11:"XI",12:"XII",13:"XIII",14:"XIV",15:"XV"}
 _ROMAN_REV = {v.lower():k for k,v in _ROMAN.items()}
 
 def _render_tuple(tup: list[str]) -> str:
@@ -30,7 +30,7 @@ def cmd_types(_args) -> int:
     width = 80
     disc = ["T","C","Gamma","G","Phi_c","H","Omega"]
     print("=" * width)
-    print("  ARS FUNGIGLYPHICA — 10 FUNGIGLYPHIC IMSCRIPTIONS")
+    print("  ARS FUNGIGLYPHICA — 15 CANONICAL FUNGAL TYPES")
     print("-" * width)
     header = f'  {"#":<3} {"Type":<28} {"Tier":<8} {"Fungi":<6} ' + " ".join(f"{p:<4}" for p in disc)
     print(header)

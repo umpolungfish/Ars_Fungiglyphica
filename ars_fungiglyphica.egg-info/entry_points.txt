@@ -1,0 +1,2 @@
+[console_scripts]
+fg = ars_fungiglyphica.cli:main
