@@ -1,0 +1,1034 @@
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : ganoderma_lucidum
+  Type      : Bracket Polypore  (O2_dagger tier)
+  Tuple     : <𐑦·𐑶·𐑾·𐑬·𐑱·𐑤·𐑲·𐑵·⊙·𐑫·𐑳·𐑴>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Bracket / Shelf
+      Hard perennial conk. Saw into thin strips across the grain.
+      Double extraction: hot water decoction (2-4 h) then alcohol
+      maceration (2-4 weeks). The lacquered surface encodes
+      triterpene maturity.
+
+  Kinetics (C)
+    -> Cold maceration + hot decoction
+      Frozen-order kinetics. Woody/chitinous fruiting body requires
+      sequential extraction: 12-24 h cold water soak then 2-4 h
+      simmer at 85-95 C. Polysaccharides release in hot phase;
+      triterpenes require alcohol. NEVER boil — destroys beta-glucan
+      triple helix.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Broadcast immune signaling
+      Beta-glucans broadcast through Peyer's patches. All
+      polysaccharide fractions combine simultaneously — no temporal
+      ordering. The immune system reads the pattern, not the
+      sequence.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple stereocenters from triterpene scaffolds. Full chiral
+      separation: preparative chromatography or sequential solvent
+      partition. Chiral fidelity across unlimited processing.
+      Ganoderic acids, erinacines, cordycepin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Binary extraction
+      Two required phases: aqueous (hot water) then organic
+      (ethanol). The phases are non-negotiable — water extracts
+      polysaccharides; alcohol extracts triterpenes. Binary winding
+      (Z2-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : hericium_erinaceus
+  Type      : Tooth Cascade  (O2 tier)
+  Tuple     : <𐑦·𐑥·𐑾·𐑬·𐑱·𐑧·𐑲·𐑠·⊙·𐑫·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Tooth / Cascade
+      Soft annual spines. Tear into pieces along tooth axis. Triple
+      extraction: cold water (12 h), hot water (1 h), alcohol (1
+      week). The cascading teeth morphology IS the neurotrophic
+      self-report.
+
+  Kinetics (C)
+    -> Decoction
+      Activated kinetics. Soft fleshy fruiting body. Simmer 30-60 min
+      at 80-90 C. Water-soluble polysaccharides and proteins release
+      with sustained gentle heat. Strain while hot.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Sequential release
+      Compounds activate in temporal order. First fraction: cold
+      water polysaccharides. Second: hot water proteins. Third:
+      alcohol triterpenes/sterols. Evaluate each before combining.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple stereocenters from triterpene scaffolds. Full chiral
+      separation: preparative chromatography or sequential solvent
+      partition. Chiral fidelity across unlimited processing.
+      Ganoderic acids, erinacines, cordycepin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Integer winding
+      Three or more extraction cycles. Triple extraction: cold water
+      → hot water → alcohol. Each cycle targets a different compound
+      class. Integer winding (Z-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : cordyceps_militaris
+  Type      : Entomopathogenic Club  (O2 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑬·𐑱·𐑤·𐑲·𐑵·⊙·𐑖·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Enclosed
+      Fruiting body enclosed or parasitic. Whole-body extraction. The
+      host-fungus composite is the pharmaceutical unit. Grind whole
+      (including host substrate for entomopathogens).
+
+  Kinetics (C)
+    -> Cold maceration + hot decoction
+      Frozen-order kinetics. Woody/chitinous fruiting body requires
+      sequential extraction: 12-24 h cold water soak then 2-4 h
+      simmer at 85-95 C. Polysaccharides release in hot phase;
+      triterpenes require alcohol. NEVER boil — destroys beta-glucan
+      triple helix.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Broadcast immune signaling
+      Beta-glucans broadcast through Peyer's patches. All
+      polysaccharide fractions combine simultaneously — no temporal
+      ordering. The immune system reads the pattern, not the
+      sequence.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Two-step chiral
+      Matched write/read pair. Filter through cloth, then decant
+      supernatant after 24 h settling. Two-step clarification
+      sufficient for disulfide-constrained peptides and simple
+      alkaloids.
+
+  Winding (Omega)
+    -> Integer winding
+      Three or more extraction cycles. Triple extraction: cold water
+      → hot water → alcohol. Each cycle targets a different compound
+      class. Integer winding (Z-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : lentinula_edodes
+  Type      : Gilled Cap-and-Stipe  (O2 tier)
+  Tuple     : <𐑦·𐑸·𐑾·𐑬·𐑱·𐑧·𐑔·𐑠·⊙·𐑖·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Gilled / Holographic
+      Classic cap-and-stipe. Slice radially through gills. Single or
+      double extraction depending on texture. Annulus and volva
+      remnants are pharmaceutically active.
+
+  Kinetics (C)
+    -> Decoction
+      Activated kinetics. Soft fleshy fruiting body. Simmer 30-60 min
+      at 80-90 C. Water-soluble polysaccharides and proteins release
+      with sustained gentle heat. Strain while hot.
+
+  Granularity (Gamma)
+    -> Medium powder
+      Pass mesh 40 (355 um). Gill or smooth surface. Mesoscale
+      extraction sufficient for gastrointestinal immune contact.
+      Coarser residue re-extracted in alcohol phase.
+
+  Coupling (G)
+    -> Sequential release
+      Compounds activate in temporal order. First fraction: cold
+      water polysaccharides. Second: hot water proteins. Third:
+      alcohol triterpenes/sterols. Evaluate each before combining.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Two-step chiral
+      Matched write/read pair. Filter through cloth, then decant
+      supernatant after 24 h settling. Two-step clarification
+      sufficient for disulfide-constrained peptides and simple
+      alkaloids.
+
+  Winding (Omega)
+    -> Integer winding
+      Three or more extraction cycles. Triple extraction: cold water
+      → hot water → alcohol. Each cycle targets a different compound
+      class. Integer winding (Z-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : grifola_frondosa
+  Type      : Rosette Cluster  (O2 tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑬·𐑱·𐑧·𐑔·𐑵·⊙·𐑖·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Network / Clustered
+      Clustered or branching fruiting. Separate individual caps from
+      base. Fan-shaped clusters: the overlapping pattern IS the
+      developmental self-report. Trim woody base.
+
+  Kinetics (C)
+    -> Decoction
+      Activated kinetics. Soft fleshy fruiting body. Simmer 30-60 min
+      at 80-90 C. Water-soluble polysaccharides and proteins release
+      with sustained gentle heat. Strain while hot.
+
+  Granularity (Gamma)
+    -> Medium powder
+      Pass mesh 40 (355 um). Gill or smooth surface. Mesoscale
+      extraction sufficient for gastrointestinal immune contact.
+      Coarser residue re-extracted in alcohol phase.
+
+  Coupling (G)
+    -> Broadcast immune signaling
+      Beta-glucans broadcast through Peyer's patches. All
+      polysaccharide fractions combine simultaneously — no temporal
+      ordering. The immune system reads the pattern, not the
+      sequence.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Two-step chiral
+      Matched write/read pair. Filter through cloth, then decant
+      supernatant after 24 h settling. Two-step clarification
+      sufficient for disulfide-constrained peptides and simple
+      alkaloids.
+
+  Winding (Omega)
+    -> Integer winding
+      Three or more extraction cycles. Triple extraction: cold water
+      → hot water → alcohol. Each cycle targets a different compound
+      class. Integer winding (Z-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : tremella_fuciformis
+  Type      : Jelly Gelatinous  (O1 tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑬·𐑱·𐑧·𐑔·𐑝·𐑢·𐑒·𐑳·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Network / Clustered
+      Clustered or branching fruiting. Separate individual caps from
+      base. Fan-shaped clusters: the overlapping pattern IS the
+      developmental self-report. Trim woody base.
+
+  Kinetics (C)
+    -> Decoction
+      Activated kinetics. Soft fleshy fruiting body. Simmer 30-60 min
+      at 80-90 C. Water-soluble polysaccharides and proteins release
+      with sustained gentle heat. Strain while hot.
+
+  Granularity (Gamma)
+    -> Medium powder
+      Pass mesh 40 (355 um). Gill or smooth surface. Mesoscale
+      extraction sufficient for gastrointestinal immune contact.
+      Coarser residue re-extracted in alcohol phase.
+
+  Coupling (G)
+    -> Conjunctive release
+      All compounds release simultaneously. Single preparation step.
+      Warm water extraction — gelatinous polysaccharides dissolve
+      together. No temporal ordering required.
+
+  Criticality (Phi_c)
+    -> Sub-critical endpoint
+      No morphological self-report. Stop at fixed time or volume.
+      70-80% extraction efficiency. The exterior gives no signal —
+      rely on protocol timing.
+
+  Chirality (H)
+    -> Single-step chiral
+      One chiral selection event. Filter through coarse cloth or
+      paper. Simple sugar polymers and amino acid derivatives.
+
+  Winding (Omega)
+    -> Single extraction
+      One-pass extraction. Single solvent, single cycle. Trivial
+      winding. The fungus gives everything in one preparation.
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : calvatia_gigantea
+  Type      : Puffball Spore Sac  (O1 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑬·𐑱·𐑘·𐑲·𐑵·𐑢·𐑒·𐑳·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Enclosed
+      Fruiting body enclosed or parasitic. Whole-body extraction. The
+      host-fungus composite is the pharmaceutical unit. Grind whole
+      (including host substrate for entomopathogens).
+
+  Kinetics (C)
+    -> Instantaneous / raw
+      Fast instantaneous kinetics. Use fresh or freeze-dried. No
+      cooking required — compounds degrade with heat. Lyophilize
+      immediately after harvest to preserve enzymatic activity.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Broadcast immune signaling
+      Beta-glucans broadcast through Peyer's patches. All
+      polysaccharide fractions combine simultaneously — no temporal
+      ordering. The immune system reads the pattern, not the
+      sequence.
+
+  Criticality (Phi_c)
+    -> Sub-critical endpoint
+      No morphological self-report. Stop at fixed time or volume.
+      70-80% extraction efficiency. The exterior gives no signal —
+      rely on protocol timing.
+
+  Chirality (H)
+    -> Single-step chiral
+      One chiral selection event. Filter through coarse cloth or
+      paper. Simple sugar polymers and amino acid derivatives.
+
+  Winding (Omega)
+    -> Single extraction
+      One-pass extraction. Single solvent, single cycle. Trivial
+      winding. The fungus gives everything in one preparation.
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : tuber_melanosporum
+  Type      : Hypogean Ascomycete  (O2 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑬·𐑱·𐑧·𐑲·𐑠·⊙·𐑒·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Enclosed
+      Fruiting body enclosed or parasitic. Whole-body extraction. The
+      host-fungus composite is the pharmaceutical unit. Grind whole
+      (including host substrate for entomopathogens).
+
+  Kinetics (C)
+    -> Decoction
+      Activated kinetics. Soft fleshy fruiting body. Simmer 30-60 min
+      at 80-90 C. Water-soluble polysaccharides and proteins release
+      with sustained gentle heat. Strain while hot.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Sequential release
+      Compounds activate in temporal order. First fraction: cold
+      water polysaccharides. Second: hot water proteins. Third:
+      alcohol triterpenes/sterols. Evaluate each before combining.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Single-step chiral
+      One chiral selection event. Filter through coarse cloth or
+      paper. Simple sugar polymers and amino acid derivatives.
+
+  Winding (Omega)
+    -> Integer winding
+      Three or more extraction cycles. Triple extraction: cold water
+      → hot water → alcohol. Each cycle targets a different compound
+      class. Integer winding (Z-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : ustilago_maydis
+  Type      : Rust Smut Pathogen  (O1 tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑬·𐑱·𐑘·𐑲·𐑠·𐑢·𐑒·𐑳·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Network / Clustered
+      Clustered or branching fruiting. Separate individual caps from
+      base. Fan-shaped clusters: the overlapping pattern IS the
+      developmental self-report. Trim woody base.
+
+  Kinetics (C)
+    -> Instantaneous / raw
+      Fast instantaneous kinetics. Use fresh or freeze-dried. No
+      cooking required — compounds degrade with heat. Lyophilize
+      immediately after harvest to preserve enzymatic activity.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Sequential release
+      Compounds activate in temporal order. First fraction: cold
+      water polysaccharides. Second: hot water proteins. Third:
+      alcohol triterpenes/sterols. Evaluate each before combining.
+
+  Criticality (Phi_c)
+    -> Sub-critical endpoint
+      No morphological self-report. Stop at fixed time or volume.
+      70-80% extraction efficiency. The exterior gives no signal —
+      rely on protocol timing.
+
+  Chirality (H)
+    -> Single-step chiral
+      One chiral selection event. Filter through coarse cloth or
+      paper. Simple sugar polymers and amino acid derivatives.
+
+  Winding (Omega)
+    -> Single extraction
+      One-pass extraction. Single solvent, single cycle. Trivial
+      winding. The fungus gives everything in one preparation.
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : usnea_barbata
+  Type      : Lichen Symbiont  (O2_dagger tier)
+  Tuple     : <𐑦·𐑶·𐑾·𐑬·𐑱·𐑤·𐑲·𐑵·⊙·𐑫·𐑳·𐑴>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Bracket / Shelf
+      Hard perennial conk. Saw into thin strips across the grain.
+      Double extraction: hot water decoction (2-4 h) then alcohol
+      maceration (2-4 weeks). The lacquered surface encodes
+      triterpene maturity.
+
+  Kinetics (C)
+    -> Cold maceration + hot decoction
+      Frozen-order kinetics. Woody/chitinous fruiting body requires
+      sequential extraction: 12-24 h cold water soak then 2-4 h
+      simmer at 85-95 C. Polysaccharides release in hot phase;
+      triterpenes require alcohol. NEVER boil — destroys beta-glucan
+      triple helix.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Broadcast immune signaling
+      Beta-glucans broadcast through Peyer's patches. All
+      polysaccharide fractions combine simultaneously — no temporal
+      ordering. The immune system reads the pattern, not the
+      sequence.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple stereocenters from triterpene scaffolds. Full chiral
+      separation: preparative chromatography or sequential solvent
+      partition. Chiral fidelity across unlimited processing.
+      Ganoderic acids, erinacines, cordycepin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Binary extraction
+      Two required phases: aqueous (hot water) then organic
+      (ethanol). The phases are non-negotiable — water extracts
+      polysaccharides; alcohol extracts triterpenes. Binary winding
+      (Z2-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : phallus_impudicus
+  Type      : Stinkhorn Emergence  (O2 tier)
+  Tuple     : <𐑦·𐑥·𐑾·𐑬·𐑱·𐑧·𐑔·𐑠·⊙·𐑫·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Tooth / Cascade
+      Soft annual spines. Tear into pieces along tooth axis. Triple
+      extraction: cold water (12 h), hot water (1 h), alcohol (1
+      week). The cascading teeth morphology IS the neurotrophic
+      self-report.
+
+  Kinetics (C)
+    -> Decoction
+      Activated kinetics. Soft fleshy fruiting body. Simmer 30-60 min
+      at 80-90 C. Water-soluble polysaccharides and proteins release
+      with sustained gentle heat. Strain while hot.
+
+  Granularity (Gamma)
+    -> Medium powder
+      Pass mesh 40 (355 um). Gill or smooth surface. Mesoscale
+      extraction sufficient for gastrointestinal immune contact.
+      Coarser residue re-extracted in alcohol phase.
+
+  Coupling (G)
+    -> Sequential release
+      Compounds activate in temporal order. First fraction: cold
+      water polysaccharides. Second: hot water proteins. Third:
+      alcohol triterpenes/sterols. Evaluate each before combining.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple stereocenters from triterpene scaffolds. Full chiral
+      separation: preparative chromatography or sequential solvent
+      partition. Chiral fidelity across unlimited processing.
+      Ganoderic acids, erinacines, cordycepin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Integer winding
+      Three or more extraction cycles. Triple extraction: cold water
+      → hot water → alcohol. Each cycle targets a different compound
+      class. Integer winding (Z-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : ramaria_botrytis
+  Type      : Coral Ramaria  (O2 tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑬·𐑱·𐑧·𐑔·𐑵·⊙·𐑖·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Network / Clustered
+      Clustered or branching fruiting. Separate individual caps from
+      base. Fan-shaped clusters: the overlapping pattern IS the
+      developmental self-report. Trim woody base.
+
+  Kinetics (C)
+    -> Decoction
+      Activated kinetics. Soft fleshy fruiting body. Simmer 30-60 min
+      at 80-90 C. Water-soluble polysaccharides and proteins release
+      with sustained gentle heat. Strain while hot.
+
+  Granularity (Gamma)
+    -> Medium powder
+      Pass mesh 40 (355 um). Gill or smooth surface. Mesoscale
+      extraction sufficient for gastrointestinal immune contact.
+      Coarser residue re-extracted in alcohol phase.
+
+  Coupling (G)
+    -> Broadcast immune signaling
+      Beta-glucans broadcast through Peyer's patches. All
+      polysaccharide fractions combine simultaneously — no temporal
+      ordering. The immune system reads the pattern, not the
+      sequence.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Two-step chiral
+      Matched write/read pair. Filter through cloth, then decant
+      supernatant after 24 h settling. Two-step clarification
+      sufficient for disulfide-constrained peptides and simple
+      alkaloids.
+
+  Winding (Omega)
+    -> Integer winding
+      Three or more extraction cycles. Triple extraction: cold water
+      → hot water → alcohol. Each cycle targets a different compound
+      class. Integer winding (Z-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : peziza_badia
+  Type      : Cup Discus  (O1 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑬·𐑱·𐑘·𐑲·𐑠·𐑢·𐑒·𐑳·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Enclosed
+      Fruiting body enclosed or parasitic. Whole-body extraction. The
+      host-fungus composite is the pharmaceutical unit. Grind whole
+      (including host substrate for entomopathogens).
+
+  Kinetics (C)
+    -> Instantaneous / raw
+      Fast instantaneous kinetics. Use fresh or freeze-dried. No
+      cooking required — compounds degrade with heat. Lyophilize
+      immediately after harvest to preserve enzymatic activity.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Sequential release
+      Compounds activate in temporal order. First fraction: cold
+      water polysaccharides. Second: hot water proteins. Third:
+      alcohol triterpenes/sterols. Evaluate each before combining.
+
+  Criticality (Phi_c)
+    -> Sub-critical endpoint
+      No morphological self-report. Stop at fixed time or volume.
+      70-80% extraction efficiency. The exterior gives no signal —
+      rely on protocol timing.
+
+  Chirality (H)
+    -> Single-step chiral
+      One chiral selection event. Filter through coarse cloth or
+      paper. Simple sugar polymers and amino acid derivatives.
+
+  Winding (Omega)
+    -> Single extraction
+      One-pass extraction. Single solvent, single cycle. Trivial
+      winding. The fungus gives everything in one preparation.
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : scleroderma_citrinum
+  Type      : Earthball Globus  (O1 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑬·𐑱·𐑤·𐑲·𐑵·𐑢·𐑖·𐑳·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Enclosed
+      Fruiting body enclosed or parasitic. Whole-body extraction. The
+      host-fungus composite is the pharmaceutical unit. Grind whole
+      (including host substrate for entomopathogens).
+
+  Kinetics (C)
+    -> Cold maceration + hot decoction
+      Frozen-order kinetics. Woody/chitinous fruiting body requires
+      sequential extraction: 12-24 h cold water soak then 2-4 h
+      simmer at 85-95 C. Polysaccharides release in hot phase;
+      triterpenes require alcohol. NEVER boil — destroys beta-glucan
+      triple helix.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Broadcast immune signaling
+      Beta-glucans broadcast through Peyer's patches. All
+      polysaccharide fractions combine simultaneously — no temporal
+      ordering. The immune system reads the pattern, not the
+      sequence.
+
+  Criticality (Phi_c)
+    -> Sub-critical endpoint
+      No morphological self-report. Stop at fixed time or volume.
+      70-80% extraction efficiency. The exterior gives no signal —
+      rely on protocol timing.
+
+  Chirality (H)
+    -> Two-step chiral
+      Matched write/read pair. Filter through cloth, then decant
+      supernatant after 24 h settling. Two-step clarification
+      sufficient for disulfide-constrained peptides and simple
+      alkaloids.
+
+  Winding (Omega)
+    -> Single extraction
+      One-pass extraction. Single solvent, single cycle. Trivial
+      winding. The fungus gives everything in one preparation.
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS FUNGIGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Fungus    : physarum_polycephalum
+  Type      : Myxomycete Plasmodium  (O2_dagger tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑬·𐑱·𐑘·𐑲·𐑠·⊙·𐑒·𐑳·𐑴>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Network / Clustered
+      Clustered or branching fruiting. Separate individual caps from
+      base. Fan-shaped clusters: the overlapping pattern IS the
+      developmental self-report. Trim woody base.
+
+  Kinetics (C)
+    -> Instantaneous / raw
+      Fast instantaneous kinetics. Use fresh or freeze-dried. No
+      cooking required — compounds degrade with heat. Lyophilize
+      immediately after harvest to preserve enzymatic activity.
+
+  Granularity (Gamma)
+    -> Fine powder
+      Pass mesh 100 (150 um). Pore surface or tooth surface maximizes
+      extraction surface area. Freeze first for brittle fracture.
+      Universal tissue distribution — systemic immune modulation.
+
+  Coupling (G)
+    -> Sequential release
+      Compounds activate in temporal order. First fraction: cold
+      water polysaccharides. Second: hot water proteins. Third:
+      alcohol triterpenes/sterols. Evaluate each before combining.
+
+  Criticality (Phi_c)
+    -> Self-modeling endpoint
+      The fungus signals extraction completion through its own
+      morphology. For brackets: lacquered surface dulls; for teeth:
+      spines lose turgor; for gilled: gills separate from cap. Stop
+      when successive fractions differ <5%. The fungus monitors its
+      own extraction.
+
+  Chirality (H)
+    -> Single-step chiral
+      One chiral selection event. Filter through coarse cloth or
+      paper. Simple sugar polymers and amino acid derivatives.
+
+  Winding (Omega)
+    -> Binary extraction
+      Two required phases: aqueous (hot water) then organic
+      (ethanol). The phases are non-negotiable — water extracts
+      polysaccharides; alcohol extracts triterpenes. Binary winding
+      (Z2-period).
+
+  Parity (Phi)
+    -> Dual-phase
+      45-55% ethanol for combined extraction OR sequential
+      water-then-alcohol. The bilateral bridge for fungi: water for
+      polysaccharides, ethanol for triterpenes.
+
+  Fidelity (f)
+    -> 1x standard
+      No reduction. Proportional yield.
+
+========================================================================
+  "The fruiting body does not describe its medicine.
+   It executes it."
+========================================================================
+

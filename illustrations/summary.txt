@@ -1,0 +1,20 @@
+ARS FUNGIGLYPHICA — TYPE SUMMARY (15 types)
+==============================================================================
+
+#    Type Name                    Tier         T      C      Gm     G      Ph_c   H      Om     Reps  
+------------------------------------------------------------------------------
+1    Bracket Polypore             O2_dagger    𐑶      𐑤      𐑲      𐑵      ⊙      𐑫      𐑴      8     
+2    Tooth Cascade                O2           𐑥      𐑧      𐑲      𐑠      ⊙      𐑫      𐑭      4     
+3    Entomopathogenic Club        O2           𐑰      𐑤      𐑲      𐑵      ⊙      𐑖      𐑭      4     
+4    Gilled Cap-and-Stipe         O2           𐑸      𐑧      𐑔      𐑠      ⊙      𐑖      𐑭      7     
+5    Rosette Cluster              O2           𐑡      𐑧      𐑔      𐑵      ⊙      𐑖      𐑭      5     
+6    Jelly Gelatinous             O1           𐑡      𐑧      𐑔      𐑝      𐑢      𐑒      𐑷      5     
+7    Puffball Spore Sac           O1           𐑰      𐑘      𐑲      𐑵      𐑢      𐑒      𐑷      5     
+8    Hypogean Ascomycete          O2           𐑰      𐑧      𐑲      𐑠      ⊙      𐑒      𐑭      6     
+9    Rust Smut Pathogen           O1           𐑡      𐑘      𐑲      𐑠      𐑢      𐑒      𐑷      4     
+10   Lichen Symbiont              O2_dagger    𐑶      𐑤      𐑲      𐑵      ⊙      𐑫      𐑴      6     
+11   Stinkhorn Emergence          O2           𐑥      𐑧      𐑔      𐑠      ⊙      𐑫      𐑭      7     
+12   Coral Ramaria                O2           𐑡      𐑧      𐑔      𐑵      ⊙      𐑖      𐑭      6     
+13   Cup Discus                   O1           𐑰      𐑘      𐑲      𐑠      𐑢      𐑒      𐑷      7     
+14   Earthball Globus             O1           𐑰      𐑤      𐑲      𐑵      𐑢      𐑖      𐑷      5     
+15   Myxomycete Plasmodium        O2_dagger    𐑡      𐑘      𐑲      𐑠      ⊙      𐑒      𐑴      7     

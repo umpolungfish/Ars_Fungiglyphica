@@ -1,0 +1,439 @@
+{
+  "ars": "fungiglyphica",
+  "version": "2.0.0",
+  "n_types": 15,
+  "invariants": {
+    "D": "𐑦",
+    "R": "𐑾",
+    "Phi": "𐑬",
+    "f": "𐑱",
+    "Sigma": "𐑳"
+  },
+  "discriminants": [
+    "T",
+    "C",
+    "Gamma",
+    "G",
+    "Phi_c",
+    "H",
+    "Omega"
+  ],
+  "types": [
+    {
+      "num": 1,
+      "name": "Bracket Polypore",
+      "tier": "O2_dagger",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑶",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑤",
+        "Gamma": "𐑲",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑴"
+      },
+      "description": "Shelf/bracket fruiting body. Hard perennial woody texture, pore surface on underside. Broadcast immune signaling via beta-glucans. Binary extraction: hot water decoction followed by alcohol extraction. Eternal chirality from ganoderic/triterpene acids.",
+      "representatives": [
+        "ganoderma_lucidum",
+        "ganoderma_tsugae",
+        "trametes_versicolor",
+        "inonotus_obliquus",
+        "fomitopsis_betulina",
+        "ganoderma_applanatum",
+        "phellinus_linteus",
+        "polyporus_umbellatus"
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Tooth Cascade",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑥",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑧",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Cascading tooth/spine fruiting body. Soft annual, no cap-stipe distinction. Sequential neurotrophic factor release: erinacines cross blood-brain barrier then hericenones activate NGF synthesis. Integer winding triple extraction. The cascading teeth morphology IS the neurotrophic self-report.",
+      "representatives": [
+        "hericium_erinaceus",
+        "hericium_coralloides",
+        "hericium_americanum",
+        "climacodon_septentrionalis"
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Entomopathogenic Club",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑤",
+        "Gamma": "𐑲",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑖",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Parasitic on insects, club-shaped fruiting body emerging from host. Containment topology — the fungus contains the insect body within its morphological encoding. Broadcast signaling: cordycepin + polysaccharides. The caterpillar-fungus composite IS the prerequisite encoding.",
+      "representatives": [
+        "cordyceps_militaris",
+        "ophiocordyceps_sinensis",
+        "tolypocladium_inflatum",
+        "cordyceps_cicadae"
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Gilled Cap-and-Stipe",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑸",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑖",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Classic agaric: cap with gills on central stipe. Mesoscale granularity from gill surface area. Sequential compound release during extraction. Annulus and volva provide morphological self-report of spore maturity. The most common medicinal mushroom body plan.",
+      "representatives": [
+        "lentinula_edodes",
+        "psilocybe_cubensis",
+        "agaricus_subrufescens",
+        "pleurotus_ostreatus",
+        "hypsizygus_tessulatus",
+        "flammulina_velutipes",
+        "agaricus_bisporus"
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Rosette Cluster",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑖",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Overlapping fan-shaped caps in rosette/cluster formation. Branching network topology from clustered fruiting. Broadcast immune signaling via beta-glucan D-fraction. The overlapping pattern IS the self-report of developmental stage.",
+      "representatives": [
+        "grifola_frondosa",
+        "sparassis_crispa",
+        "pleurotus_citrinopileatus",
+        "pleurotus_djamor",
+        "meripilus_giganteus"
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Jelly Gelatinous",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑝",
+        "Phi_c": "𐑢",
+        "H": "𐑒",
+        "Sigma": "𐑳",
+        "Omega": "𐑷"
+      },
+      "description": "Gelatinous, translucent fruiting body. Tremelloid or auricularioid. Conjunctive composition — all polysaccharides release simultaneously in warm water. Sub-critical: minimal morphological self-report. Single-step chirality from simple sugar polymers. Single-pass extraction.",
+      "representatives": [
+        "tremella_fuciformis",
+        "auricularia_auricula_judae",
+        "tremella_mesenterica",
+        "dacryopinax_spathularia",
+        "exidia_glandulosa"
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Puffball Spore Sac",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑵",
+        "Phi_c": "𐑢",
+        "H": "𐑒",
+        "Sigma": "𐑳",
+        "Omega": "𐑷"
+      },
+      "description": "Spherical enclosed fruiting body, spores mature internally. Fast instantaneous kinetics — rupture releases spore mass. Broadcast spore dispersal maps to broadcast immune signaling. Sub-critical: the exterior gives no pharmaceutical self-report; maturity only known by internal inspection (gleba color).",
+      "representatives": [
+        "calvatia_gigantea",
+        "lycoperdon_perlatum",
+        "calvatia_cyathiformis",
+        "bovista_plumbea",
+        "lycoperdon_pyriforme"
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Hypogean Ascomycete",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑧",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑒",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Underground or cup-shaped ascomycete. Containment topology from subterranean development. Sequential volatile signaling — aroma compounds release in specific order encoding ripeness. Single-step chirality from simple amino acid and fatty acid derivatives. The underground development IS the scarcity signal.",
+      "representatives": [
+        "tuber_melanosporum",
+        "tuber_magnatum",
+        "morchella_esculenta",
+        "tuber_aestivum",
+        "terfezia_boudieri",
+        "choiromyces_meandriformis"
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Rust Smut Pathogen",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "𐑢",
+        "H": "𐑒",
+        "Sigma": "𐑳",
+        "Omega": "𐑷"
+      },
+      "description": "Obligate plant pathogen. Network topology from host tissue colonization. Fast instantaneous spore release. Sequential host tissue degradation. Sub-critical: no morphological self-report of pharmaceutical activity. Used in traditional medicine despite pathogen status.",
+      "representatives": [
+        "ustilago_maydis",
+        "puccinia_graminis",
+        "ustilago_esculenta",
+        "gymnosporangium_juniperi_virginianae"
+      ]
+    },
+    {
+      "num": 10,
+      "name": "Lichen Symbiont",
+      "tier": "O2_dagger",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑶",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑤",
+        "Gamma": "𐑲",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑴"
+      },
+      "description": "Dual organism: fungus + alga/cyanobacterium. Box-product topology from lichen thallus structure. Broadcast immune + antibiotic signaling. Eternal chirality from unique lichen secondary metabolites (depsides, depsidones, usnic acid). Binary extraction. The symbiosis IS the pharmaceutical encoding.",
+      "representatives": [
+        "usnea_barbata",
+        "cladonia_rangiferina",
+        "cetraria_islandica",
+        "lobaria_pulmonaria",
+        "parmelia_saxatilis",
+        "lecanora_esculenta"
+      ]
+    },
+    {
+      "num": 11,
+      "name": "Stinkhorn Emergence",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑥",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Phallaceae: egg stage emergence with fetid gleba on receptacle. Bowtie crossing-point topology — insects land on gleba forming the fungus-insect interface. Slow activated kinetics from gelatinous egg matrix. Sequential volatile compound release: dimethyl oligosulfides attract insects, then polysaccharides mobilize. Self-modeling: the fetid odor IS the ripeness self-report. Eternal chirality from complex volatile compounds. Integer winding triple extraction.",
+      "representatives": [
+        "phallus_impudicus",
+        "mutinus_caninus",
+        "clathrus_archeri",
+        "dictyophora_indusiata",
+        "phallus_rubicundus",
+        "clathrus_ruber",
+        "laternea_triscapa"
+      ]
+    },
+    {
+      "num": 12,
+      "name": "Coral Ramaria",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑖",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Clavarioid/coral: upright branching, no cap-stipe distinction. Branching network topology — each branch terminus is an active growth point. Activated extraction from soft fleshy texture. Broadcast immune signaling: all branch surfaces release beta-glucans simultaneously. Self-modeling: branch tip coloration signals maturity. Two-step chirality from simpler terpenoid scaffolds. Integer winding — triple extraction.",
+      "representatives": [
+        "ramaria_botrytis",
+        "clavaria_zollingeri",
+        "clavulinopsis_fusiformis",
+        "artomyces_pyxidatus",
+        "ramaria_formosa",
+        "clavicorona_pyxidata"
+      ]
+    },
+    {
+      "num": 13,
+      "name": "Cup Discus",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "𐑢",
+        "H": "𐑒",
+        "Sigma": "𐑳",
+        "Omega": "𐑷"
+      },
+      "description": "Pezizales: cup or disc-shaped with exposed hymenium. Containment topology — the cup contains the spore-bearing surface. Fast instantaneous spore discharge (phototropic ballistics). Fine powder from ascospores. Sequential release: ascospore germination triggers secondary metabolites. Sub-critical: cup morphology does not strongly self-report pharmaceutical quality. Single-step chirality. Single-pass extraction.",
+      "representatives": [
+        "peziza_badia",
+        "aleuria_aurantia",
+        "sarcoscypha_coccinea",
+        "morchella_esculenta_var",
+        "gyromitra_esculenta",
+        "helvella_crispa",
+        "discina_perlata"
+      ]
+    },
+    {
+      "num": 14,
+      "name": "Earthball Globus",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑤",
+        "Gamma": "𐑲",
+        "G": "𐑵",
+        "Phi_c": "𐑢",
+        "H": "𐑖",
+        "Sigma": "𐑳",
+        "Omega": "𐑷"
+      },
+      "description": "Sclerodermataceae: spherical enclosed fruiting body with thick peridium, distinct from puffballs by solid gleba that matures to powdery spore mass. Frozen-order kinetics — the peridium must be broken mechanically. Fine powder from mature spores. Broadcast spore dispersal. Sub-critical: the exterior (thick peridium) gives no signal of internal maturity — gleba color only visible on rupture. Two-step chiral from complex spore metabolites. Single-pass extraction.",
+      "representatives": [
+        "scleroderma_citrinum",
+        "scleroderma_polyrhizum",
+        "pisolithus_arhizus",
+        "scleroderma_verrucosum",
+        "astraeus_hygrometricus"
+      ]
+    },
+    {
+      "num": 15,
+      "name": "Myxomycete Plasmodium",
+      "tier": "O2_dagger",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑬",
+        "f": "𐑱",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑒",
+        "Sigma": "𐑳",
+        "Omega": "𐑴"
+      },
+      "description": "Myxogastria: plasmodial slime mold. Network topology — the acellular plasmodium forms a protoplasmic network that navigates nutrient gradients. Fast instantaneous cytoplasmic streaming (1 mm/s). Fine powder from spores. Sequential life cycle phases: plasmodium → sclerotium → fruiting bodies. Self-modeling CRITICAL: the plasmodium solves mazes, optimizes networks, and anticipates periodic stimuli — the ultimate morphological self-report. Single-step chirality from simple metabolites. Binary winding — two distinct life phases (trophic plasmodium, reproductive fruiting).",
+      "representatives": [
+        "physarum_polycephalum",
+        "fuligo_septica",
+        "stemonitis_fusca",
+        "lycogala_epidendrum",
+        "arcyria_denudata",
+        "tubifera_ferruginosa",
+        "comatricha_nigra"
+      ]
+    }
+  ]
+}

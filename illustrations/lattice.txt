@@ -1,0 +1,52 @@
+ARS FUNGIGLYPHICA — STRUCTURAL TYPE LATTICE (15 types)
+==============================================================================
+
+TIER LEGEND:  O2_dagger = O₂†  |  O2 = O₂  |  O1 = O₁
+DISCRIMINANT PRIMITIVES: T | C | Gamma | G | Phi_c | H | Omega
+INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑬  f=𐑱  Sigma=𐑳
+
+── O₂† (Dagger) TIER (3 types) ──
+
+  Type  1  Bracket Polypore              <𐑶·𐑤·𐑲·𐑵·⊙·𐑫·𐑴>  (8 reps)
+  Type 10  Lichen Symbiont               <𐑶·𐑤·𐑲·𐑵·⊙·𐑫·𐑴>  (6 reps)
+  Type 15  Myxomycete Plasmodium         <𐑡·𐑘·𐑲·𐑠·⊙·𐑒·𐑴>  (7 reps)
+
+── O₂ TIER (7 types) ──
+
+  Type  2  Tooth Cascade                 <𐑥·𐑧·𐑲·𐑠·⊙·𐑫·𐑭>  (4 reps)
+  Type  3  Entomopathogenic Club         <𐑰·𐑤·𐑲·𐑵·⊙·𐑖·𐑭>  (4 reps)
+  Type  4  Gilled Cap-and-Stipe          <𐑸·𐑧·𐑔·𐑠·⊙·𐑖·𐑭>  (7 reps)
+  Type  5  Rosette Cluster               <𐑡·𐑧·𐑔·𐑵·⊙·𐑖·𐑭>  (5 reps)
+  Type  8  Hypogean Ascomycete           <𐑰·𐑧·𐑲·𐑠·⊙·𐑒·𐑭>  (6 reps)
+  Type 11  Stinkhorn Emergence           <𐑥·𐑧·𐑔·𐑠·⊙·𐑫·𐑭>  (7 reps)
+  Type 12  Coral Ramaria                 <𐑡·𐑧·𐑔·𐑵·⊙·𐑖·𐑭>  (6 reps)
+
+── O₁ TIER (5 types) ──
+
+  Type  6  Jelly Gelatinous              <𐑡·𐑧·𐑔·𐑝·𐑢·𐑒·𐑷>  (5 reps)
+  Type  7  Puffball Spore Sac            <𐑰·𐑘·𐑲·𐑵·𐑢·𐑒·𐑷>  (5 reps)
+  Type  9  Rust Smut Pathogen            <𐑡·𐑘·𐑲·𐑠·𐑢·𐑒·𐑷>  (4 reps)
+  Type 13  Cup Discus                    <𐑰·𐑘·𐑲·𐑠·𐑢·𐑒·𐑷>  (7 reps)
+  Type 14  Earthball Globus              <𐑰·𐑤·𐑲·𐑵·𐑢·𐑖·𐑷>  (5 reps)
+
+── DISTANCE MATRIX (discriminant mismatches) ──
+
+         T1   T2   T3   T4   T5   T6   T7   T8   T9   T10  T11  T12  T13  T14  T15  
+T1      0    4    3    6    5    7    5    5    6    0    5    5    6    4    4    
+T2      4    0    4    3    4    6    6    2    5    4    1    4    5    6    4    
+T3      3    4    0    4    3    7    4    3    6    3    5    3    5    2    5    
+T4      6    3    4    0    2    5    7    3    6    6    2    2    6    6    5    
+T5      5    4    3    2    0    4    6    4    6    5    3    0    7    5    5    
+T6      7    6    7    5    4    0    4    5    3    7    5    4    4    5    5    
+T7      5    6    4    7    6    4    0    4    2    5    7    6    1    2    4    
+T8      5    2    3    3    4    5    4    0    4    5    3    4    3    5    3    
+T9      6    5    6    6    6    3    2    4    0    6    6    6    1    4    2    
+T10     0    4    3    6    5    7    5    5    6    0    5    5    6    4    4    
+T11     5    1    5    2    3    5    7    3    6    5    0    3    6    7    5    
+T12     5    4    3    2    0    4    6    4    6    5    3    0    7    5    5    
+T13     6    5    5    6    7    4    1    3    1    6    6    7    0    3    3    
+T14     4    6    2    6    5    5    2    5    4    4    7    5    3    0    6    
+T15     4    4    5    5    5    5    4    3    2    4    5    5    3    6    0    
+
+Total types: 15
+Total representatives: 86
