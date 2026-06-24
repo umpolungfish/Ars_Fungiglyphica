@@ -53,7 +53,7 @@ Ars Fungiglyphica models 15 canonical fungal structural types spanning **86 repr
 
 ## Canonical Types
 
-| # | Type | Tier | T | C | Γ | G | φ̂ | H | Ω | Reps |
+| # | Type | Tier | Þ | Ç | Γ | ɢ | ⊙ | Ħ | Ω | Reps |
 |---|------|------|---|---|---|---|---|---|---|---|------|
 | I | Bracket Polypore | O₂† | 𐑶 | 𐑤 | 𐑲 | 𐑵 | ⊙ | 𐑫 | 𐑴 | 8 |
 | II | Tooth Cascade | O₂ | 𐑥 | 𐑧 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑭 | 4 |
@@ -81,11 +81,11 @@ These primitives are invariant — they define the category "medicinal fungus" i
 
 | Primitive | Value | Meaning |
 |-----------|-------|---------|
-| D | 𐑦 | Imscriptive dimensionality — the state-space is self-written; the fungus IS its pharmaceutical program |
-| R | 𐑾 | Bidirectional coupling — extraction is a two-way process between solvent and tissue |
-| Phi | 𐑬 | Partial symmetry — some compounds are chiral, some are not; symmetry is broken selectively |
-| f | 𐑱 | Classical fidelity — room-temperature extraction, no quantum coherence required |
-| Sigma | 𐑳 | Heterogeneous compound classes — every medicinal fungus produces multiple compound types |
+| Ð | 𐑦 | Imscriptive dimensionality — the state-space is self-written; the fungus IS its pharmaceutical program |
+| Ř | 𐑾 | Bidirectional coupling — extraction is a two-way process between solvent and tissue |
+| Φ | 𐑬 | Partial symmetry — some compounds are chiral, some are not; symmetry is broken selectively |
+| ƒ | 𐑱 | Classical fidelity — room-temperature extraction, no quantum coherence required |
+| Σ | 𐑳 | Heterogeneous compound classes — every medicinal fungus produces multiple compound types |
 
 ---
 
@@ -93,12 +93,12 @@ These primitives are invariant — they define the category "medicinal fungus" i
 
 | Primitive | What It Encodes |
 |-----------|----------------|
-| **T** (Topology) | Fruiting body morphology → preparation vessel and material form |
-| **C** (Kinetics) | Tissue texture → extraction regime (decoction, maceration, lyophilization) |
+| **Þ** (Topology) | Fruiting body morphology → preparation vessel and material form |
+| **Ç** (Kinetics) | Tissue texture → extraction regime (decoction, maceration, lyophilization) |
 | **Γ** (Granularity) | Spore surface → comminution (fine powder vs medium powder) |
-| **G** (Composition) | Compound release pattern → whether compounds act simultaneously or sequentially |
-| **φ̂** (Criticality) | Self-modeling → whether the fungus visually signals its pharmaceutical quality |
-| **H** (Chirality) | Compound complexity → extraction cycles needed |
+| **ɢ** (Composition) | Compound release pattern → whether compounds act simultaneously or sequentially |
+| **⊙** (Criticality) | Self-modeling → whether the fungus visually signals its pharmaceutical quality |
+| **Ħ** (Chirality) | Compound complexity → extraction cycles needed |
 | **Ω** (Winding) | Topological protection → single, binary, or integer extraction cycles |
 
 ---
@@ -107,16 +107,16 @@ These primitives are invariant — they define the category "medicinal fungus" i
 
 The grammar maps morphology to protocol. Each primitive value has a concrete pharmaceutical interpretation. The elaborator (`elaborator.py`) translates every tuple into a full preparation protocol covering:
 
-- **Vessel preparation:** How to cut, slice, or grind the fruiting body based on topology (T)
-- **Extraction regime:** Time, temperature, solvent based on kinetics (C)
+- **Vessel preparation:** How to cut, slice, or grind the fruiting body based on topology (Þ)
+- **Extraction regime:** Time, temperature, solvent based on kinetics (Ç)
 - **Comminution:** Mesh size based on granularity (Γ)
-- **Dosing sequence:** Timing of compound release based on composition mode (G)
-- **Quality indicators:** What the morphology tells you about potency (φ̂)
-- **Cycle count:** Single, binary, or triple extraction based on chirality and winding (H, Ω)
+- **Dosing sequence:** Timing of compound release based on composition mode (ɢ)
+- **Quality indicators:** What the morphology tells you about potency (⊙)
+- **Cycle count:** Single, binary, or triple extraction based on chirality and winding (Ħ, Ω)
 
 Example — **Tooth Cascade** (Type II, *Hericium erinaceus*):
 
-> The cascading teeth morphology *is* the neurotrophic self-report. Triple extraction mandated by eternal chirality (H=𑑫) and integer winding (Ω=𑑭): cold water (12 h) → hot water (1 h) → alcohol (1 week). Erinacines cross the blood-brain barrier first; hericenones activate NGF synthesis second. The sequential pattern (G=𑑠) encodes the dosing timeline.
+> The cascading teeth morphology *is* the neurotrophic self-report. Triple extraction mandated by eternal chirality (Ħ=𐑫) and integer winding (Ω=𐑭): cold water (12 h) → hot water (1 h) → alcohol (1 week). Erinacines cross the blood-brain barrier first; hericenones activate NGF synthesis second. The sequential pattern (ɢ=𐑠) encodes the dosing timeline.
 
 ---
 

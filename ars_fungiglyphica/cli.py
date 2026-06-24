@@ -28,7 +28,7 @@ def _hamming(tup_a, tup_b) -> int:
 
 def cmd_types(_args) -> int:
     width = 80
-    disc = ["T","C","Gamma","G","Phi_c","H","Omega"]
+    disc = ["Þ","Ç","Γ","ɢ","⊙","Ħ","Ω"]
     print("=" * width)
     print("  ARS FUNGIGLYPHICA — 15 CANONICAL FUNGAL TYPES")
     print("-" * width)
