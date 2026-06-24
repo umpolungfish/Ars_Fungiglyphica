@@ -18,6 +18,39 @@ Ars Fungiglyphica models 15 canonical fungal structural types spanning **86 repr
 
 ---
 
+## Type Gallery
+
+<p align="center">
+<img src="images/I_Bracket_Polypore.jpg" width="200" alt="I. Bracket Polypore" title="I. Bracket Polypore — Ganoderma applanatum"/>
+<img src="images/II_Tooth_Cascade.jpg" width="200" alt="II. Tooth Cascade" title="II. Tooth Cascade — Hericium erinaceus"/>
+<img src="images/III_Entomopathogenic_Club.jpg" width="200" alt="III. Entomopathogenic Club" title="III. Entomopathogenic Club — Cordyceps militaris"/>
+<img src="images/IV_Gilled_Cap_and_Stipe.jpg" width="200" alt="IV. Gilled Cap-and-Stipe" title="IV. Gilled Cap-and-Stipe — Amanita muscaria"/>
+<img src="images/V_Rosette_Cluster.jpg" width="200" alt="V. Rosette Cluster" title="V. Rosette Cluster — Grifola frondosa"/>
+</p>
+<p align="center"><sub><b>I.</b> Bracket Polypore &nbsp;|&nbsp; <b>II.</b> Tooth Cascade &nbsp;|&nbsp; <b>III.</b> Entomopathogenic Club &nbsp;|&nbsp; <b>IV.</b> Gilled Cap-and-Stipe &nbsp;|&nbsp; <b>V.</b> Rosette Cluster</sub></p>
+
+<p align="center">
+<img src="images/VI_Jelly_Gelatinous.jpg" width="200" alt="VI. Jelly Gelatinous" title="VI. Jelly Gelatinous — Tremella fuciformis"/>
+<img src="images/VII_Puffball_Spore_Sac.jpg" width="200" alt="VII. Puffball Spore Sac" title="VII. Puffball Spore Sac — Lycoperdon perlatum"/>
+<img src="images/VIII_Hypogean_Ascomycete.jpg" width="200" alt="VIII. Hypogean Ascomycete" title="VIII. Hypogean Ascomycete — Tuber melanosporum"/>
+<img src="images/IX_Rust_Smut_Pathogen.jpg" width="200" alt="IX. Rust Smut Pathogen" title="IX. Rust Smut Pathogen — Puccinia graminis"/>
+<img src="images/X_Lichen_Symbiont.jpg" width="200" alt="X. Lichen Symbiont" title="X. Lichen Symbiont — Cladonia rangiferina"/>
+</p>
+<p align="center"><sub><b>VI.</b> Jelly Gelatinous &nbsp;|&nbsp; <b>VII.</b> Puffball Spore Sac &nbsp;|&nbsp; <b>VIII.</b> Hypogean Ascomycete &nbsp;|&nbsp; <b>IX.</b> Rust Smut Pathogen &nbsp;|&nbsp; <b>X.</b> Lichen Symbiont</sub></p>
+
+<p align="center">
+<img src="images/XI_Stinkhorn_Emergence.jpg" width="200" alt="XI. Stinkhorn Emergence" title="XI. Stinkhorn Emergence — Phallus impudicus"/>
+<img src="images/XII_Coral_Ramaria.jpg" width="200" alt="XII. Coral Ramaria" title="XII. Coral Ramaria — Ramaria sp."/>
+<img src="images/XIII_Cup_Discus.jpg" width="200" alt="XIII. Cup Discus" title="XIII. Cup Discus — Peziza phyllogena"/>
+<img src="images/XIV_Earthball_Globus.jpg" width="200" alt="XIV. Earthball Globus" title="XIV. Earthball Globus — Scleroderma citrinum"/>
+<img src="images/XV_Myxomycete_Plasmodium.jpg" width="200" alt="XV. Myxomycete Plasmodium" title="XV. Myxomycete Plasmodium — Physarum polycephalum"/>
+</p>
+<p align="center"><sub><b>XI.</b> Stinkhorn Emergence &nbsp;|&nbsp; <b>XII.</b> Coral Ramaria &nbsp;|&nbsp; <b>XIII.</b> Cup Discus &nbsp;|&nbsp; <b>XIV.</b> Earthball Globus &nbsp;|&nbsp; <b>XV.</b> Myxomycete Plasmodium</sub></p>
+
+<p align="center"><sub><i>All images sourced from Wikimedia Commons under CC-BY, CC-BY-SA, CC0, or Public Domain licenses. See <a href="#image-credits">Image Credits</a> for full attribution.</i></sub></p>
+
+---
+
 ## Canonical Types
 
 | # | Type | Tier | T | C | Γ | G | φ̂ | H | Ω | Reps |
@@ -169,6 +202,10 @@ Ars_Fungiglyphica/
 ├── pyproject.toml                      ← Package metadata; CLI entry: `fg`
 ├── expand_types.py                     ← Algorithmic type expansion (10→15)
 ├── generate_all.py                     ← Full pipeline runner
+├── images/                             ← 15 type photographs (Wikimedia Commons)
+│   ├── I_Bracket_Polypore.jpg
+│   ├── II_Tooth_Cascade.jpg
+│   └── ... (15 total)
 ├── data/
 │   └── catalog.json                    ← 15 type entries with full tuples + metadata
 ├── illustrations/
@@ -230,6 +267,30 @@ fg morphology cordyceps_militaris
 # Show the type lattice with pairwise Hamming distances
 fg lattice
 ```
+
+---
+
+## Image Credits
+
+All type photographs sourced from **Wikimedia Commons** under free licenses:
+
+| Type | Source | License | Photographer |
+|------|--------|---------|-------------|
+| I. Bracket Polypore | *Ganoderma applanatum* | CC BY 4.0 | Arjuno3 |
+| II. Tooth Cascade | *Hericium erinaceus* | CC BY 4.0 | Plam1234 |
+| III. Entomopathogenic Club | *Cordyceps militaris* | CC BY 4.0 | Matej Frančeškin (iNaturalist) |
+| IV. Gilled Cap-and-Stipe | *Amanita muscaria* | CC BY-SA 4.0 | Ermell |
+| V. Rosette Cluster | *Grifola frondosa* | CC BY-SA 2.0 | Björn S. (Flickr) |
+| VI. Jelly Gelatinous | *Tremella fuciformis* | CC BY-SA 4.0 | — |
+| VII. Puffball Spore Sac | *Lycoperdon perlatum* | CC BY-SA 4.0 | Ermell |
+| VIII. Hypogean Ascomycete | *Tuber melanosporum* | CC BY-SA 3.0 | — |
+| IX. Rust Smut Pathogen | *Puccinia graminis* | CC BY-SA 4.0 | — |
+| X. Lichen Symbiont | *Cladonia rangiferina* | CC0 | — |
+| XI. Stinkhorn Emergence | *Phallus impudicus* | CC BY-SA 4.0 | — |
+| XII. Coral Ramaria | *Ramaria* sp. | CC BY-SA 2.0 | — |
+| XIII. Cup Discus | *Peziza phyllogena* | CC BY-SA 3.0 | — |
+| XIV. Earthball Globus | *Scleroderma citrinum* | CC BY 3.0 | — |
+| XV. Myxomycete Plasmodium | *Physarum polycephalum* | CC BY 4.0 | — |
 
 ---
 
