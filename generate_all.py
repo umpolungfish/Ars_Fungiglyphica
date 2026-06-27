@@ -60,7 +60,7 @@ for tier_label, tier_code in [("O₂† (Dagger)", "O2_dagger"), ("O₂", "O2"),
     lines.append(f"── {tier_label} TIER ({len(tier_types)} types) ──")
     lines.append("")
     for t in tier_types:
-        disc = "·".join([t.tuple12[i] for i in [1,5,6,7,8,9,11]])
+        disc = "".join([t.tuple12[i] for i in [1,5,6,7,8,9,11]])
         lines.append(f"  Type {t.num:2d}  {t.name:<28s}  <{disc}>  ({len(t.representatives)} reps)")
     lines.append("")
 
@@ -100,7 +100,7 @@ for tier_label, tier_code in [("O₂† (Dagger)", "O2_dagger"), ("O₂", "O2"),
     lines2.append(f"── {tier_label} TIER ({len(tier_types)} types) ──")
     lines2.append("")
     for t in tier_types:
-        disc = "·".join([t.tuple12[i] for i in [1,5,6,7,8,9,10,11]])
+        disc = "".join([t.tuple12[i] for i in [1,5,6,7,8,9,10,11]])
         lines2.append(f"  Type {t.num:2d}  {t.name:<30s}  <{disc}>  ({len(t.representatives)} reps)")
     lines2.append("")
 

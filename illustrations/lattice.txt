@@ -7,27 +7,27 @@ INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑬  f=𐑱  Sigma=𐑳
 
 ── O₂† (Dagger) TIER (3 types) ──
 
-  Type  1  Bracket Polypore              <𐑶·𐑤·𐑲·𐑵·⊙·𐑫·𐑴>  (8 reps)
-  Type 10  Lichen Symbiont               <𐑶·𐑤·𐑲·𐑵·⊙·𐑫·𐑴>  (6 reps)
-  Type 15  Myxomycete Plasmodium         <𐑡·𐑘·𐑲·𐑠·⊙·𐑒·𐑴>  (7 reps)
+  Type  1  Bracket Polypore              <𐑶𐑤𐑲𐑵⊙𐑫𐑴>  (8 reps)
+  Type 10  Lichen Symbiont               <𐑶𐑤𐑲𐑵⊙𐑫𐑴>  (6 reps)
+  Type 15  Myxomycete Plasmodium         <𐑡𐑘𐑲𐑠⊙𐑒𐑴>  (7 reps)
 
 ── O₂ TIER (7 types) ──
 
-  Type  2  Tooth Cascade                 <𐑥·𐑧·𐑲·𐑠·⊙·𐑫·𐑭>  (4 reps)
-  Type  3  Entomopathogenic Club         <𐑰·𐑤·𐑲·𐑵·⊙·𐑖·𐑭>  (4 reps)
-  Type  4  Gilled Cap-and-Stipe          <𐑸·𐑧·𐑔·𐑠·⊙·𐑖·𐑭>  (7 reps)
-  Type  5  Rosette Cluster               <𐑡·𐑧·𐑔·𐑵·⊙·𐑖·𐑭>  (5 reps)
-  Type  8  Hypogean Ascomycete           <𐑰·𐑧·𐑲·𐑠·⊙·𐑒·𐑭>  (6 reps)
-  Type 11  Stinkhorn Emergence           <𐑥·𐑧·𐑔·𐑠·⊙·𐑫·𐑭>  (7 reps)
-  Type 12  Coral Ramaria                 <𐑡·𐑧·𐑔·𐑵·⊙·𐑖·𐑭>  (6 reps)
+  Type  2  Tooth Cascade                 <𐑥𐑧𐑲𐑠⊙𐑫𐑭>  (4 reps)
+  Type  3  Entomopathogenic Club         <𐑰𐑤𐑲𐑵⊙𐑖𐑭>  (4 reps)
+  Type  4  Gilled Cap-and-Stipe          <𐑸𐑧𐑔𐑠⊙𐑖𐑭>  (7 reps)
+  Type  5  Rosette Cluster               <𐑡𐑧𐑔𐑵⊙𐑖𐑭>  (5 reps)
+  Type  8  Hypogean Ascomycete           <𐑰𐑧𐑲𐑠⊙𐑒𐑭>  (6 reps)
+  Type 11  Stinkhorn Emergence           <𐑥𐑧𐑔𐑠⊙𐑫𐑭>  (7 reps)
+  Type 12  Coral Ramaria                 <𐑡𐑧𐑔𐑵⊙𐑖𐑭>  (6 reps)
 
 ── O₁ TIER (5 types) ──
 
-  Type  6  Jelly Gelatinous              <𐑡·𐑧·𐑔·𐑝·𐑢·𐑒·𐑷>  (5 reps)
-  Type  7  Puffball Spore Sac            <𐑰·𐑘·𐑲·𐑵·𐑢·𐑒·𐑷>  (5 reps)
-  Type  9  Rust Smut Pathogen            <𐑡·𐑘·𐑲·𐑠·𐑢·𐑒·𐑷>  (4 reps)
-  Type 13  Cup Discus                    <𐑰·𐑘·𐑲·𐑠·𐑢·𐑒·𐑷>  (7 reps)
-  Type 14  Earthball Globus              <𐑰·𐑤·𐑲·𐑵·𐑢·𐑖·𐑷>  (5 reps)
+  Type  6  Jelly Gelatinous              <𐑡𐑧𐑔𐑝𐑢𐑒𐑷>  (5 reps)
+  Type  7  Puffball Spore Sac            <𐑰𐑘𐑲𐑵𐑢𐑒𐑷>  (5 reps)
+  Type  9  Rust Smut Pathogen            <𐑡𐑘𐑲𐑠𐑢𐑒𐑷>  (4 reps)
+  Type 13  Cup Discus                    <𐑰𐑘𐑲𐑠𐑢𐑒𐑷>  (7 reps)
+  Type 14  Earthball Globus              <𐑰𐑤𐑲𐑵𐑢𐑖𐑷>  (5 reps)
 
 ── DISTANCE MATRIX (discriminant mismatches) ──
 
