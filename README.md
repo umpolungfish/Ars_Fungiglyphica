@@ -1,4 +1,6 @@
 # Ars Fungiglyphica
+**Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑶𐑾𐑹𐑞𐑧𐑲𐑠⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
+
 
 > *The fruiting body is the program. Every morphological feature encodes a concrete pharmaceutical parameter.*
 
