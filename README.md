@@ -239,7 +239,7 @@ Ars_Fungiglyphica/
 ## Installation
 
 ```bash
-cd /home/mrnob0dy666/imsgct/Ars_Fungiglyphica
+cd imsgct/Ars_Fungiglyphica
 pip install -e .
 ```
 
