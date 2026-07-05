@@ -4,14 +4,12 @@
 [![IG Tier](https://img.shields.io/badge/IG-O%E2%82%82-blueviolet)](https://github.com/badges/shields)
 [![μ∘δ=id](https://img.shields.io/badge/%CE%BC%E2%88%98%CE%B4%3Did-open-critical)](https://github.com/badges/shields)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/badges/shields)
-**Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑶𐑾𐑹𐑞𐑧𐑲𐑠⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
-
+**Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
 
 > *The fruiting body is the program. Every morphological feature encodes a concrete pharmaceutical parameter.*
 
 **Ars Fungiglyphica** is the fungal morphological imscription engine: the first complete structural grammar of medicinal and psychoactive fungi. It reads pharmaceutical meaning directly from fungal morphology using the 12-primitive Imscribing Grammar.
 
-**Author:** Lando⊗⊙perator  
 **Version:** 0.1.0  
 **Tier Range:** O₁ – O₂† (biological morphology is tier-bounded)
 
