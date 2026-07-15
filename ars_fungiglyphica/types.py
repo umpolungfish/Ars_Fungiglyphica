@@ -10,7 +10,7 @@ Five invariants (fixed for all medicinal fungi):
 Seven discriminant primitives define the type taxonomy:
   T (fruiting body topology), C (extraction kinetics),
   Gamma (spore surface), G (coupling mode),
-  Phi_c (criticality / self-modeling), H (chirality),
+  ⊙ (criticality / self-modeling), H (chirality),
   Omega (winding / extraction cycles)
 
 Author: Lando⊗⊙perator

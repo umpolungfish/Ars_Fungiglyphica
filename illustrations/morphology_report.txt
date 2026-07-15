@@ -35,7 +35,7 @@
       ordering. The immune system reads the pattern, not the
       sequence.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -107,7 +107,7 @@
       water polysaccharides. Second: hot water proteins. Third:
       alcohol triterpenes/sterols. Evaluate each before combining.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -180,7 +180,7 @@
       ordering. The immune system reads the pattern, not the
       sequence.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -249,7 +249,7 @@
       water polysaccharides. Second: hot water proteins. Third:
       alcohol triterpenes/sterols. Evaluate each before combining.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -319,7 +319,7 @@
       ordering. The immune system reads the pattern, not the
       sequence.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -388,7 +388,7 @@
       Warm water extraction — gelatinous polysaccharides dissolve
       together. No temporal ordering required.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical endpoint
       No morphological self-report. Stop at fixed time or volume.
       70-80% extraction efficiency. The exterior gives no signal —
@@ -453,7 +453,7 @@
       ordering. The immune system reads the pattern, not the
       sequence.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical endpoint
       No morphological self-report. Stop at fixed time or volume.
       70-80% extraction efficiency. The exterior gives no signal —
@@ -517,7 +517,7 @@
       water polysaccharides. Second: hot water proteins. Third:
       alcohol triterpenes/sterols. Evaluate each before combining.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -584,7 +584,7 @@
       water polysaccharides. Second: hot water proteins. Third:
       alcohol triterpenes/sterols. Evaluate each before combining.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical endpoint
       No morphological self-report. Stop at fixed time or volume.
       70-80% extraction efficiency. The exterior gives no signal —
@@ -652,7 +652,7 @@
       ordering. The immune system reads the pattern, not the
       sequence.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -724,7 +724,7 @@
       water polysaccharides. Second: hot water proteins. Third:
       alcohol triterpenes/sterols. Evaluate each before combining.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -795,7 +795,7 @@
       ordering. The immune system reads the pattern, not the
       sequence.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:
@@ -864,7 +864,7 @@
       water polysaccharides. Second: hot water proteins. Third:
       alcohol triterpenes/sterols. Evaluate each before combining.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical endpoint
       No morphological self-report. Stop at fixed time or volume.
       70-80% extraction efficiency. The exterior gives no signal —
@@ -931,7 +931,7 @@
       ordering. The immune system reads the pattern, not the
       sequence.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical endpoint
       No morphological self-report. Stop at fixed time or volume.
       70-80% extraction efficiency. The exterior gives no signal —
@@ -997,7 +997,7 @@
       water polysaccharides. Second: hot water proteins. Third:
       alcohol triterpenes/sterols. Evaluate each before combining.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Self-modeling endpoint
       The fungus signals extraction completion through its own
       morphology. For brackets: lacquered surface dulls; for teeth:

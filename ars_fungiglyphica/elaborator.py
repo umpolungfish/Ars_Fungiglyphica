@@ -65,7 +65,7 @@ _COUPLING = {
            "polysaccharides dissolve together. No temporal ordering required."),
 }
 
-# Phi_c (Criticality): self-modeling endpoint
+# ⊙ (Criticality): self-modeling endpoint
 _CRITICALITY = {
     "⊙": ("Self-modeling endpoint", "The fungus signals extraction completion "
           "through its own morphology. For brackets: lacquered surface dulls; "
@@ -114,7 +114,7 @@ _FIDELITY = {
     "𐑞": ("2x concentrated", "Reduce to half volume."),
 }
 
-PRIM_KEYS = ["D","T","R","Phi","f","C","Gamma","G","Phi_c","H","Sigma","Omega"]
+PRIM_KEYS = ["D","T","R","Phi","f","C","Gamma","G","⊙","H","Sigma","Omega"]
 
 
 def elaborate_morphology(tuple_vals: list[str]) -> dict:
@@ -154,7 +154,7 @@ def format_morphology_report(name: str, type_name: str, tier: str,
         ("Kinetics (C)",        morphology["kinetics"]),
         ("Granularity (Gamma)", morphology["granularity"]),
         ("Coupling (G)",        morphology["coupling"]),
-        ("Criticality (Phi_c)", morphology["criticality"]),
+        ("Criticality (⊙)", morphology["criticality"]),
         ("Chirality (H)",       morphology["chirality"]),
         ("Winding (Omega)",     morphology["winding"]),
         ("Parity (Phi)",        morphology["parity"]),

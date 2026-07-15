@@ -20,7 +20,7 @@ for t in FT:
 with open('/home/mrnob0dy666/imsgct/Ars_Fungiglyphica/data/catalog.json', 'w') as f:
     json.dump({"ars": "fungiglyphica", "version": "2.0.0", "n_types": len(FT),
                "invariants": {"D":"𐑦","R":"𐑾","Phi":"𐑬","f":"𐑱","Sigma":"𐑳"},
-               "discriminants": ["T","C","Gamma","G","Phi_c","H","Omega"],
+               "discriminants": ["T","C","Gamma","G","⊙","H","Omega"],
                "types": fungal_data}, f, ensure_ascii=False, indent=2)
 print(f"Fungal data: {len(fungal_data)} entries written")
 
@@ -41,7 +41,7 @@ for t in AT:
 with open('/home/mrnob0dy666/imsgct/Ars_Animaglyphica/data/catalog.json', 'w') as f:
     json.dump({"ars": "animaglyphica", "version": "2.0.0", "n_types": len(AT),
                "invariants": {"D":"𐑦","R":"𐑾","Phi":"𐑯","f":"𐑞"},
-               "discriminants": ["T","C","Gamma","G","Phi_c","H","Sigma","Omega"],
+               "discriminants": ["T","C","Gamma","G","⊙","H","Sigma","Omega"],
                "types": animal_data}, f, ensure_ascii=False, indent=2)
 print(f"Animal data: {len(animal_data)} entries written")
 
@@ -51,7 +51,7 @@ lines.append("ARS FUNGIGLYPHICA — STRUCTURAL TYPE LATTICE (15 types)")
 lines.append("=" * 78)
 lines.append("")
 lines.append("TIER LEGEND:  O2_dagger = O₂†  |  O2 = O₂  |  O1 = O₁")
-lines.append("DISCRIMINANT PRIMITIVES: T | C | Gamma | G | Phi_c | H | Omega")
+lines.append("DISCRIMINANT PRIMITIVES: T | C | Gamma | G | ⊙ | H | Omega")
 lines.append("INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑬  f=𐑱  Sigma=𐑳")
 lines.append("")
 
@@ -91,7 +91,7 @@ lines2.append("ARS ANIMAGLYPHICA — STRUCTURAL TYPE LATTICE (14 types)")
 lines2.append("=" * 78)
 lines2.append("")
 lines2.append("TIER LEGEND:  O2_dagger = O₂†  |  O2 = O₂  |  O1 = O₁")
-lines2.append("DISCRIMINANT PRIMITIVES: T | C | Gamma | G | Phi_c | H | Sigma | Omega")
+lines2.append("DISCRIMINANT PRIMITIVES: T | C | Gamma | G | ⊙ | H | Sigma | Omega")
 lines2.append("INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑯  f=𐑞")
 lines2.append("")
 

@@ -2,7 +2,7 @@ ARS FUNGIGLYPHICA — STRUCTURAL TYPE LATTICE (15 types)
 ==============================================================================
 
 TIER LEGEND:  O2_dagger = O₂†  |  O2 = O₂  |  O1 = O₁
-DISCRIMINANT PRIMITIVES: T | C | Gamma | G | Phi_c | H | Omega
+DISCRIMINANT PRIMITIVES: T | C | Gamma | G | ⊙ | H | Omega
 INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑬  f=𐑱  Sigma=𐑳
 
 ── O₂† (Dagger) TIER (3 types) ──
