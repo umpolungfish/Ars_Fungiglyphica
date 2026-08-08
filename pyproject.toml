@@ -6,7 +6,7 @@ authors = [{name = "Lando⊗⊙perator"}]
 requires-python = ">=3.10"
 
 [project.scripts]
-fg = "ars_fungiglyphica.cli:main"
+ars-fungi = "ars_fungiglyphica.cli:main"
 
 [tool.setuptools.packages.find]
 include = ["ars_fungiglyphica*"]

@@ -1,2 +1,2 @@
 [console_scripts]
-fg = ars_fungiglyphica.cli:main
+ars-fungi = ars_fungiglyphica.cli:main

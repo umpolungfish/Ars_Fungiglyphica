@@ -17,7 +17,7 @@
 
 **Why it matters.** A mushroom's morphology encodes how to prepare it; this makes that encoding rigorous and computable, completing the Ars trilogy alongside plants and animals.
 
-**How to use it.** Install, then use the `af` CLI to list the 15 types, look up a fungus, compute structural distance, or elaborate morphology into a pharmaceutical reading (see Installation and CLI Usage below).
+**How to use it.** Install, then use the `ars-fungi` CLI to list the 15 types, look up a fungus, compute structural distance, or elaborate morphology into a pharmaceutical reading (see Installation and CLI Usage below).
 
 ---
 
@@ -210,7 +210,7 @@ The invariant theorems prove that D, R, Phi, f, and Sigma are identical across a
 ```
 Ars_Fungiglyphica/
 ├── README.md                           ← This file
-├── pyproject.toml                      ← Package metadata; CLI entry: `fg`
+├── pyproject.toml                      ← Package metadata; CLI entry: `ars-fungi`
 ├── expand_types.py                     ← Algorithmic type expansion (10→15)
 ├── generate_all.py                     ← Full pipeline runner
 ├── images/                             ← 15 type photographs (Wikimedia Commons)
@@ -248,35 +248,35 @@ Requires Python ≥ 3.10. No external dependencies beyond the standard library.
 
 ## CLI Usage
 
-All commands via the `fg` entry point:
+All commands via the `ars-fungi` entry point:
 
 ```bash
 # List all 15 canonical types with discriminant primitive values
-fg types
+ars-fungi types
 
 # Show a specific type (by number, Roman numeral, or name)
-fg type III
-fg type "Bracket Polypore"
-fg type 5
+ars-fungi type III
+ars-fungi type "Bracket Polypore"
+ars-fungi type 5
 
 # Look up a specific fungus
-fg fungus ganoderma_lucidum
-fg fungus psilocybe_cubensis
+ars-fungi fungus ganoderma_lucidum
+ars-fungi fungus psilocybe_cubensis
 
 # Show the structural distance between two types
-fg distance "Bracket Polypore" "Jelly Gelatinous"
-fg distance I VI
+ars-fungi distance "Bracket Polypore" "Jelly Gelatinous"
+ars-fungi distance I VI
 
 # List all representative fungi (or filter by type)
-fg list
-fg list III
+ars-fungi list
+ars-fungi list III
 
 # Full morphological → pharmaceutical elaboration
-fg morphology hericium_erinaceus
-fg morphology cordyceps_militaris
+ars-fungi morphology hericium_erinaceus
+ars-fungi morphology cordyceps_militaris
 
 # Show the type lattice with pairwise Hamming distances
-fg lattice
+ars-fungi lattice
 ```
 
 ---
