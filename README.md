@@ -4,7 +4,7 @@
 
 > *The fruiting body is the program. Every morphological feature encodes a concrete pharmaceutical parameter.*
 
-**What it is.** The fungal morphological imscription engine — first complete structural grammar of medicinal and psychoactive fungi. v0.1.0; tiers O₁–O₂† (biology tier-bounded; no O₀, no O_∞).
+**What it is.** The fungal morphological imscription engine - first complete structural grammar of medicinal and psychoactive fungi. v0.1.0; tiers O₁–O₂† (biology tier-bounded; no O₀, no O_∞).
 
 **What it does.** Models 15 canonical types across 86 species, reading cap, gills, texture, habit, spores, development into preparation, extraction, and dosing. All tuples deterministically imscribed, Lean-verified in `p4rakernel/p4ramill/Imscribing/ArsFungiglyphica.lean`. Fungal volume of the Ars trilogy.
 
